@@ -1,2 +1,0 @@
-# sohaib
-python
